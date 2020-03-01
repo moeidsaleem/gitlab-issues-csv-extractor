@@ -1,0 +1,16 @@
+{
+  "name": "gitlab-issues-csv-extractor",
+  "version": "1.0.0",
+  "description": "A github issues list CSV extractor from RSS Feed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "moeidsaleem",
+  "license": "ISC",
+  "dependencies": {
+    "export-to-csv": "^0.2.1",
+    "rss-parser": "^3.7.5"
+  }
+}
