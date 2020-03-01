@@ -1,4 +1,4 @@
-# gitlab-issues-csv-extractor
+# Gitlab-issues-csv-extractor
 Extract issues list in CSV from RSS Feed - Gitlab community Edition
 
 
@@ -18,4 +18,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/) Copyright moeidsaleem. Provide credit whenever you are using this package. 
